@@ -1,0 +1,6 @@
+-cp src
+-lib heaps
+-js js/gameoff22.js
+-main Main
+-debug
+-D windowSize=880x448
